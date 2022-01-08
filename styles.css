@@ -1,0 +1,109 @@
+main{
+max-width: 1200px;
+}
+
+.card{
+    margin: 1em;
+}
+.accordion-body ul{
+    display: flex;
+    flex-wrap:wrap;
+    list-style: none; 
+}
+.accordion{
+    margin: 5em;
+}
+
+.accordion-button{
+    display:table;
+    /* text-align: center; */
+}
+.accordion-button .post_id{
+    /* display:table; */
+    text-align: left;
+}
+.accordion-button .title{
+    /* display:table; */
+    text-align: center;
+}
+.accordion-button .username{
+    /* display:table; */
+    float: right;
+}
+
+
+.list-group-numbered{
+    width: 95%;
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+
+.carousel{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    border : 2px;
+    border-style: double;
+
+}
+
+
+.carousel-item img{
+    /* height: 400px; */
+    /* height: auto; */
+    /* width: 150px;  */
+    /* max-width: 600px; */
+    /* margin: 10px; */
+}
+
+/* iframe{
+    border:2px; 
+    width: 80%;
+     height: 350px;
+    
+    frameborder="0"
+    <a href="https://www.gps.ie/sport-gps/">gps watches</a>
+    marginheight="0" 
+    marginwidth="0"
+    width="50%"
+    height="200" 
+    scrolling="no" 
+   
+} */
+
+iframe.map{
+    border:2px;
+    height: 350px;
+    width: 100%;
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
+/* Apply styles starting from medium devices and up to extra large devices */
+@media (min-width: 768px) and (max-width: 1199.98px) {
+    
+}

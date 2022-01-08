@@ -1,0 +1,50 @@
+[
+{
+    "full_name": "John Smith",
+    "nick": "JS",
+    "email": "john.smith@bla-bla.com",
+    "address": {
+        "street": "Elm Street",
+        "house": "1",
+        "city": "Chicago",
+		"country":"USA",
+        "post_code": "Postxxxccc",
+        "coord": ""
+    },
+    "phone": "+370xxxyyyzzz",
+    "work": "Bla bla companny inc.",
+    "web": "www.bla-bla.com"
+},
+{
+    "full_name": "John Rambo",
+    "nick": "JR",
+    "email": "john.rambo@blu-bla.com",
+    "address": {
+        "street": "Elm Street",
+        "house": "2",
+        "city": "New York",
+		"country":"Jamaica",
+        "post_code": "PostYYYccc",
+        "coord": ""
+    },
+    "phone": "+370000yyyzzz",
+    "work": "Blu bla companny inc.",
+    "web": "www.blu-bla.com"
+},
+{
+    "full_name": "James Bond",
+    "nick": "JB",
+    "email": "james.bond@blu-blu.com",
+    "address": {
+        "street": "Somerset Rd",
+        "house": "154",
+        "city": "Sandys MA 06",
+		"country":"Bermuda",
+        "post_code": "PostZZZccc",
+        "coord": "32.28304104740741, -64.87336179846439"
+    },
+    "phone": "+370000000zzz",
+    "work": "Blu blu companny inc.",
+    "web": "www.blu-blu.com"
+}
+]
